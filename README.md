@@ -1,7 +1,12 @@
 <h1 align="center">
-	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
   My portfolio v1
 </h1>
+
+<h4>
+  <p align="center">
+	  <a href="https://nostalgic-swartz-6c698d.netlify.app/">https://nostalgic-swartz-6c698d.netlify.app/</a>
+	</p>
+</h4>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
